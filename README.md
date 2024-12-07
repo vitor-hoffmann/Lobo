@@ -1,2 +1,2 @@
-# Portifolio
+# Lobo
 Um portifólio feito em html e css totalmente responsivo.
